@@ -1,8 +1,8 @@
 {
   "name": "loader-utils",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "author": "Tobias Koppers @sokra",
-  "description": "utils for webpack loaders",
+  "description": "utils for webpack loaders. Forked at 2.0.0 to fix https://github.com/advisories/GHSA-76p3-8jx3-jpfq",
   "dependencies": {
     "big.js": "^5.2.2",
     "emojis-list": "^3.0.0",
